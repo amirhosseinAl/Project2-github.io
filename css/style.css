@@ -242,7 +242,7 @@ header #slide .slider .slide-description h2 {
     top: 0;
     right: 0;
     bottom: 0;
-    left: 36.7%;
+    left: 35.3%;
 }
 
 #hanging-lamp-two .hanging-lamp-two {
@@ -264,6 +264,7 @@ header #slide .slider .slide-description h2 {
     display: flex;
     flex-wrap: wrap;
     text-align: center;
+    margin-top: -30px;
 }
 
 #hanging-lamp-two .hanging-lamp-two .hang-two-left ul li {
@@ -407,6 +408,7 @@ header #slide .slider .slide-description h2 {
     display: flex;
     flex-wrap: wrap;
     text-align: center;
+    margin-top: -30px;
 }
 
 #sofa-two .sofa-two .sofa-two-left ul li {
